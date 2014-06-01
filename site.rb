@@ -5,6 +5,6 @@ get '/' do
   "I'm alive!"
 end
 
-get 'italian' do
+get '/italian' do
   "Ciao!"
 end 
