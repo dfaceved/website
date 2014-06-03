@@ -12,6 +12,13 @@
 
 .profile img {
   width: 100px;
-  height: 100px;
   border-radius: 50px;
 }
+
+ html { 
+  background: url('http://danielacevedo.smugmug.com/Scenery/i-3z7fs3n/0/S/20140524_161314_HDR-S.jpg') no-repeat center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ }
